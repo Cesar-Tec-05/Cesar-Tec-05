@@ -46,7 +46,7 @@ Current
 
 <br><br>
 ## 📧 Contact
-- [Email](cesardejesusbecerravera@gmail.com)
+- cesardejesusbecerravera@gmail.com
 
 <br><br>
 ## 🌍 Thank you for your attention 
