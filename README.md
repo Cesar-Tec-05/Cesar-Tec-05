@@ -47,6 +47,7 @@ Current
 <br><br>
 ## 📧 Contact
 - cesardejesusbecerravera@gmail.com
+- cesar.becerra8711@alumnos.udg.mx
 
 <br><br>
 ## 🌍 Thank you for your attention 
