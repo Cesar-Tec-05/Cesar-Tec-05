@@ -12,6 +12,7 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 - Electromechanical
 - Photovoltaic Systems
 - Mexican Standard NOM-001-SEDE-2012 Electrical Installations for Use
+- UIIE UIIE Distributed Generation
 - Mexican Standard NOM-022-STPS-2015 Static Electricity in Workplaces
 - Internal Civil Protection Program
 #### Programming Languages Learned
