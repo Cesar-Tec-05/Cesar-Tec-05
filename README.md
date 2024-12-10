@@ -49,7 +49,7 @@ Current
 ## 📧 Contact
 - cesardejesusbecerravera@gmail.com
 - cesar.becerra8711@alumnos.udg.mx
-
+- www.linkedin.com/in/cesar-de-jesus-becerra-vera-98288233a
 <br><br>
 ## 🌍 Thank you for your attention 
 I thank you very much for checking my profile, so you can also contact me if you have any clarifications.
