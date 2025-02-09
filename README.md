@@ -1,6 +1,6 @@
 <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-179.gif" alt="Hacking" width="1000000">
 
-# 👋 Hello, my name is Cesar de Jesus Becerra Vera XD    
+# 👋 Hello, my name is Cesar de Jesus Becerra Vera    
 I am a Technician in Electromechanics and a student in Computer Engineering at the University of Guadalajara, since I was a child I have loved technology so I decided to go more for the exact sciences and engineers committing myself to learn as best as possible.
 ![octocat-1730663788503](https://github.com/user-attachments/assets/de577658-afb8-4a9b-9245-7cbb42560dab)
 > [!NOTE]
