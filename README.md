@@ -17,6 +17,7 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 - UIIE Distributed Generation
 - Mexican Standard NOM-022-STPS-2015 Static Electricity in Workplaces
 - Internal Civil Protection Program
+- Basic in Web Development
 <br><br>
 #### Programming Languages Learned
 | Language or Syntax  |  Icon :D   | Percentage | 
@@ -26,8 +27,8 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 |C++ |<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Icon" width="44">|  ██ 20%          |
 |HTML |<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html Icon" width="50">|  ██ 20%          |
 |CSS |<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Icon" width="40">  |  █ 10%          |
-|JavaScript |<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="45">  |  ███ 30%          |
-|PSeInt |<img src="https://usuarios.cnba.uba.ar/gabinetes/software/PSeInt%20NUEVO/imgs/icon.svg" alt="PSeInt Icon" width="50">  |  ██████ 60%          |
+|JavaScript |<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="45">  |  ████ 40%          |
+|PSeInt |<img src="https://usuarios.cnba.uba.ar/gabinetes/software/PSeInt%20NUEVO/imgs/icon.svg" alt="PSeInt Icon" width="50">  |  ██████████ 100%          |
 
 > [!NOTE]
 > The knowledge was acquired through work experience and completed courses
@@ -35,7 +36,7 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 <br><br>
 ## 💼 Work Experience
 #### DOMUS Ingenieria  
-**Charge:** Position: Specialist Technician and Coordinator of Assistant Technicians   
+**Charge:** Specialist Technician and Coordinator of Assistant Technicians   
 **Visit:** [Domus.mx](https://domus.mx/)
 > [!NOTE]
 > I am currently still working at Domus Ingenieria
@@ -53,10 +54,12 @@ Current
 - **English:** Basic
 - **Spanish:** Native
 <br><br>
-## 📧 Contact
-- cesardejesusbecerravera@gmail.com
-- cesar.becerra8711@alumnos.udg.mx
-- www.linkedin.com/in/cesar-de-jesus-becerra-vera-98288233a
+## 📧 Networking & Contact
+- **Mail:** cesardejesusbecerravera@gmail.com
+- **Institutional Mail:** cesar.becerra8711@alumnos.udg.mx
+- **LinkedIn Profile:** www.linkedin.com/in/cesar-de-jesus-becerra-vera-98288233a
+- **Credly Profile:** https://www.credly.com/users/cesar-de-jesus-becerra-vera
+- **DockerHub Profile:** https://hub.docker.com/u/cesarver
 <br><br>
 ## 🌍 Thank you for your attention 
 I thank you very much for checking my profile, so you can also contact me if you have any clarifications.
