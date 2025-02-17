@@ -28,6 +28,7 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 |HTML |<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html Icon" width="50">|  ██ 20%          |
 |CSS |<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Icon" width="40">  |  █ 10%          |
 |JavaScript |<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="45">  |  ████ 40%          |
+|TipeScript |<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Ícono de TypeScript" width="45">  |  ██████ 60%          |
 |PSeInt |<img src="https://usuarios.cnba.uba.ar/gabinetes/software/PSeInt%20NUEVO/imgs/icon.svg" alt="PSeInt Icon" width="50">  |  ██████████ 100%          |
 
 > [!NOTE]
