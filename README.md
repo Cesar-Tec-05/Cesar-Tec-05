@@ -23,8 +23,8 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 | Language or Syntax  |  Icon :D   | Percentage | 
 |---------------------|------------|------------|
 |Python |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="50">|█ 10%|
-|C |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Icon" width="50">|████ 40%|
-|C++ |<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Icon" width="44">|  ██ 20%          |
+|C |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Icon" width="50">|██████ 60%|
+|C++ |<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Icon" width="44">|  ██████ 60%          |
 |HTML |<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html Icon" width="50">|  ██ 20%          |
 |CSS |<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Icon" width="40">  |  █ 10%          |
 |JavaScript |<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="45">  |  ████ 40%          |
