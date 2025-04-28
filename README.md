@@ -1,4 +1,6 @@
-<img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-179.gif" alt="Hacking" width="1000000">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%; height: auto;">
+</div>
 
 # 👋 Hello, my name is Cesar de Jesus Becerra Vera    
 I am a Technician in Electromechanics and a student in Computer Engineering at the University of Guadalajara, since I was a child I have loved technology so I decided to go more for the exact sciences and engineers committing myself to learn as best as possible.
@@ -17,9 +19,9 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 - UIIE Distributed Generation
 - Mexican Standard NOM-022-STPS-2015 Static Electricity in Workplaces
 - Internal Civil Protection Program
-- Basic in Web Development
+- Backend Developer
 <br><br>
-#### Programming Languages Learned
+#### Platforms, Programming Languages, and Learned Frameworks
 | Language or Syntax  |  Icon :D   | Percentage | 
 |---------------------|------------|------------|
 |Python |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="50">|█ 10%|
@@ -30,6 +32,16 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 |JavaScript |<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="45">  |  ████ 40%          |
 |TipeScript |<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Ícono de TypeScript" width="45">  |  ██████ 60%          |
 |PSeInt |<img src="https://usuarios.cnba.uba.ar/gabinetes/software/PSeInt%20NUEVO/imgs/icon.svg" alt="PSeInt Icon" width="50">  |  ██████████ 100%          |
+|MySQL |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Icon" width="50">  |  █ 10% |
+|MongoDB |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon" width="50">  |  ██ 20%          |
+|Node JS |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Icon" width="50">  |  ███ 30%          |
+|JSON |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON Icon" width="50">  |  ███████ 70%          |
+|YAML |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="YAML Icon" width="50">  |  ███ 30%          |
+|Markdown |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown Icon" width="50">  |  ███████ 70%          |
+|Docker |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Icon" width="50">  |  ████ 40%          |
+|Git |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Icon" width="50">  |  ██████ 60%          |
+|Nest JS |<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png" alt="NestJS Icon" width="50">  |  ███ 30%          |
+|Vite JS |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="ViteJS Icon" width="50">  |  ███ 30%          |
 
 > [!NOTE]
 > The knowledge was acquired through work experience and completed courses
@@ -37,13 +49,20 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 <br><br>
 ## 💼 Work Experience
 #### DOMUS Ingenieria  
-**Charge:** Specialist Technician and Coordinator of Assistant Technicians   
+**Charge:** 
+- Specialist Technician
+- Coordinator of Assistant Technicians
+- Backend Developer
+
 **Visit:** [Domus.mx](https://domus.mx/)
 > [!NOTE]
-> I am currently still working at Domus Ingenieria
+> I am currently still working at Domus Ingenieria as a Backend Developer and consultor in the electrical ingeneering area.
 
 <br><br>
 ## 🎓 Education
+#### Basic Electronics
+**Instituto Enlace**
+2017 - 2018
 #### Technician in Electromechanics   
 **Cecyte Jalisco**
 2021 - 2024
