@@ -40,7 +40,7 @@ I am a Technician in Electromechanics and a student in Computer Engineering at t
 |Markdown |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown Icon" width="50">  |  ███████ 70%          |
 |Docker |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Icon" width="50">  |  ████ 40%          |
 |Git |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Icon" width="50">  |  ██████ 60%          |
-|GitHub |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" width="50">  |  ████ 40%          |
+|GitHub |<img src="https://th.bing.com/th/id/OIP.II3-J-3lrPkWluZMxQYW5gHaHa?rs=1&pid=ImgDetMain" alt="GitHub Icon" width="50">  |  ████ 40%          |
 |Azure DevOps |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps Icon" width="50">  |  ███ 30%          |
 |Nest JS |<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png" alt="NestJS Icon" width="50">  |  ███ 30%          |
 |Vite JS |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="ViteJS Icon" width="50">  |  ███ 30%          |
